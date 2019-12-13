@@ -12,7 +12,7 @@ void loop() {
 }
 
 void loopBody() {
-  // log('loopBody');
+  log('loopBody');
 }
 
 void main() {
