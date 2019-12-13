@@ -16,6 +16,6 @@ void loopBody() {
 }
 
 void main() {
-  log('hello, world');
-  loop();
+  // log('hello, world');
+  // loop();
 }
