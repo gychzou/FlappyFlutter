@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4888a4c-9061-4cbc-8361-0efb4796d686" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/flappy_flutter/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappy_flutter/images/bird1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappy_flutter/images/bird2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappy_flutter/images/bird3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappy_flutter/images/ground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappy_flutter/images/tube1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappy_flutter/images/tube2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flappy_flutter/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/flappy_flutter/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +15,7 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/flappy_flutter/pubspec.yaml">
           <provider selected="true" editor-type-id="text-editor">
@@ -53,34 +46,19 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="312" />
-    <option name="y" value="6" />
-    <option name="width" value="1545" />
-    <option name="height" value="855" />
+    <option name="x" value="247" />
+    <option name="y" value="2" />
+    <option name="width" value="1238" />
+    <option name="height" value="685" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="FlappyFlutter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FlappyFlutter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FlappyFlutter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FlappyFlutter" type="462c0819:PsiDirectoryNode" />
-              <item name="flappy_flutter" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -118,11 +96,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="250" y="5" width="1236" height="684" extended-state="0" />
-    <editor active="true" />
+    <frame x="198" y="2" width="990" height="548" extended-state="0" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3293718" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.34334764" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
